@@ -67,3 +67,15 @@ poker ==> [4,8,1,4,3,2,3,7]
 
 ### Empty a list
 poker[:] = []
+
+### Install Pycharm to continue practicing
+
+## If statement
+Ex:
+age =
+if age < 18 :
+  print("You are not allowed to drive. Go out with someone older")
+elif age is 18 :
+  print("You are old enough to get a license. Get one and start driving")
+else :
+  print("You are allowed to drive only if you have your license and papers.")
